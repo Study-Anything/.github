@@ -7,6 +7,7 @@
 ## ⏰ History
 - `2023. 03~` 알고리즘 스터디 시작
 - `2023. 08.` 알고리즘 스터디 종료
-- `2023. 08~` CS (Computer Science) 및 기술 면접 대비 스터디 시작 
+- `2023. 08~` CS (Computer Science) 및 기술 면접 대비 스터디 시작
+- `2023. 09.` CS (Computer Science) 및 기술 면접 대비 스터디 종료
 
 
